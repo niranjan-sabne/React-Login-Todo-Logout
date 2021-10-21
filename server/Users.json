@@ -1,0 +1,19 @@
+{
+  "users": [{
+      "fname": "Keval",
+      "lname": "Sabne",
+      "uname": "kevalsabne",
+      "email": "1keval.sabne@gmail.com",
+      "pass": "Keval@123456",
+      "id": 1
+    },
+    {
+      "fname": "Neel",
+      "lname": "Sabne",
+      "email": "1neel.sabne@gmail.com",
+      "uname": "neelsabne",
+      "pass": "Neel@1234",
+      "id": 2
+    }
+  ]
+}
